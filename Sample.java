@@ -1,6 +1,6 @@
 class Sample{  
  
  public static void main(String args[]){  
-    System.out.print("I am Mariraja");  
+    System.out.print("DevOps Project...");  
  }  
 }  
