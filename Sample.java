@@ -4,7 +4,7 @@ class Sample{
  String name;  
  //creating main method inside the Student class  
  public static void main(String args[]){  
-  //Creating an object or instance  
+  //Creating an object or instance  sss
   Student s1=new Student();//creating an object of Student  
   //Printing values of the object  
   System.out.println(s1.id);//accessing member through reference variable  
