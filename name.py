@@ -1,1 +1,3 @@
-print("Hai This is Mariraja.. it is My first devOps Project..")
+n=int(input())
+n1=int(input())
+print(n1+n2)
